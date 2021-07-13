@@ -10,7 +10,11 @@ Repository contains Python implementation of ...
 
 ``` pip install -r requirements.txt```
 
+## Data access
+
 ## Usage examples
+
+You need to contact the organizers of the task (https://www.imageclef.org/2016/medical) and ask for licensing the dataset.
 
 #### Train
 
