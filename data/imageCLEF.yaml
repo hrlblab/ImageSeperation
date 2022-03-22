@@ -1,0 +1,9 @@
+
+train: ../imageCLEF/images/train1/
+val: ../imageCLEF/images/test1/
+# test: ../imageCLEF/images/test1/
+
+nc: 1
+
+# class names
+names: [ 'subf' ]
