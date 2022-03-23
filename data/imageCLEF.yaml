@@ -1,6 +1,6 @@
 
-train: ../imageCLEF/images/train1/
-val: ../imageCLEF/images/test1/
+train: ../imageCLEF/images/train/
+val: ../imageCLEF/images/test/
 # test: ../imageCLEF/images/test1/
 
 nc: 1
