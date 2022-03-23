@@ -28,7 +28,7 @@ To be released
 #### Subfigure crop
 
 #### Train
-```$ python train.py --epochs 100 --batch-size 32  --data imageCLEF_cross_val.yaml --weights yolov5s.pt --single-cls --sideloss```
+```$ python train.py --epochs 100 --batch-size 32  --data imageCLEF.yaml --weights yolov5s.pt --single-cls --sideloss```
 
 ```$ python train_cross_val.py --epochs 100 --batch-size 32  --data imageCLEF_cross_val.yaml --weights yolov5s.pt --single-cls --sideloss```
 
