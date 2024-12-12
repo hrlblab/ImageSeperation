@@ -14,10 +14,6 @@ Repository contains Python implementation of ...
 You need to contact the organizers of the task (https://www.imageclef.org/2016/medical) and ask for licensing the dataset.
 
 
-#### Pre-trained model
-
-To be released
-
 
 ## Usage examples
 
